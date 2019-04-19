@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is the result of my undergraduate research, it contains the results of my thesis described below in a condensed format.'
 date: 2018-11-08
-venue: 
+venue: arXiv
 paperurl: 'https://arxiv.org/abs/1811.03708'
 citation: 'Nakamura, Kai. (2018). &quot;Geography of Genus 2 Lefschetz fibrations&quot; <i>Journal 1</i>. 1(2).'
 ---
