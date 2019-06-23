@@ -6,7 +6,6 @@ excerpt: 'This paper is the result of my undergraduate research, it contains the
 date: 2018-11-08
 venue: arXiv
 paperurl: 'https://arxiv.org/abs/1811.03708'
-citation: 'Nakamura, Kai. (2018). &quot;Geography of Genus 2 Lefschetz fibrations&quot; <i>Journal 1</i>. 1(2).'
 ---
 This paper is about the number 2. The number 3 is left for future work.
 
